@@ -1,7 +1,8 @@
 jquery-simpleTabs
 =================
 
-Really simple tabs, no css need
+Really simple tabs, no css need.
+
 CSS is your problem, but this script hides all non-active tabs.
 
 USAGE Example:
